@@ -21,7 +21,7 @@ stream = pa.open(
 
 print('start recording')
 
-seconds = 8
+seconds = 20
 frames = []
 second_tracking = 0
 second_count = 0
